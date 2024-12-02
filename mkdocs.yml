@@ -6,6 +6,7 @@ theme:
     text: Merriweather Sans
     code: Red Hat Mono
   logo: assets/logo.png
+  favicon: immage/favicon.png
   palette: 
     # Dark Mode
     - scheme: slate
