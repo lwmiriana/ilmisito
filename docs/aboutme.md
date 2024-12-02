@@ -12,4 +12,4 @@
 
     migliorerò questa pagina appena avrò l'idea di come farlo
 
-    letsgoski :fontawesome-solid-shield-cat:
+letsgoski :fontawesome-solid-shield-cat:
